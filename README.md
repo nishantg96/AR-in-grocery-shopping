@@ -18,7 +18,6 @@ The app will be created using Unity and the Vuforia SDK.
 * Vuforia compatible android smartphone.
 ```
 
-
 **Settings to keep in mind:**
 
 ```
