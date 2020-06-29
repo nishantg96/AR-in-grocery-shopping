@@ -11,12 +11,11 @@ The app will be created using Unity and the Vuforia SDK.
 
 **Prerequisites**
 
-```
-* Unity Editor: The project is created in Unity version 2018.4.
-* Vuforia SDK: The vuforia engine 9.1 has been imported and used with Unity.
+* [Unity Editor](https://unity.com/products/core-platform/) - The project is created in Unity version 2018.4
+* [Vuforia SDK](https://developer.vuforia.com/downloads/sdk) - The vuforia engine 9.1 has been imported and used with Unity.
 * Target Image: An example target image link has been uploaded here.
 * Vuforia compatible android smartphone.
-```
+
 
 **Settings to keep in mind:**
 
@@ -26,8 +25,6 @@ The app will be created using Unity and the Vuforia SDK.
 * The target image is developed in Vuforia developer portal so it is necessary to add the "Vuforia License Key" in Vuforia Configuration in Unity.
 * The created target database has to be imported into unity to use it.
 ```
-
-
 
 
 **Target Image**
