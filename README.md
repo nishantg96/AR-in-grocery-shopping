@@ -40,14 +40,14 @@ The Target image is the image that the Vuforia Engine can identify and track. Th
 ```
 
 
-**Adding Virtual Buttons**
+**Adding Virtual Buttons** 
 
-```
+
 1. While on the TargetImage tab, in the Inspector section scroll down to find the "Add Virtual button" option.
 2. Once clicked on it, a virtual button would be added to the scene. Next resize, scale and place it on a feature rich place on the image itself.
 3. Next, in order to add a visible icon to it, add a plane on top of the button by going to the 3D object option. 
 4. Add a visible material to the plane and insert text on top of it if needed.
 5. Repeat the above steps to create more virtual buttons.
-6. Finally, add a C# script and assign the buttons to perform a set of actions.
-```
+6. Finally, add a [C# script](https://gitlab.cs.uni-saarland.de/s8nigajj/ar-in-grocery-shopping/-/blob/master/vbInterface.cs) and assign the buttons to perform a set of actions.
+
 
