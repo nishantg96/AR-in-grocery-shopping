@@ -9,7 +9,7 @@ To do so the user must first scan the product using the application. There are t
 Additionally, the user would be able to see if the product has any applicable promotional offers or discounts on it by looking at a banner on top of the product if any.
 The app will be created using Unity and the Vuforia SDK.
 
-**Prerequisites**
+## Prerequisites
 
 * [Unity Editor](https://unity.com/products/core-platform/) - The project is created in Unity version 2018.4
 * [Vuforia SDK](https://developer.vuforia.com/downloads/sdk) - The vuforia engine 9.1 has been imported and used with Unity.
@@ -17,7 +17,7 @@ The app will be created using Unity and the Vuforia SDK.
 * Vuforia compatible android smartphone.
 
 
-**Settings to keep in mind:**
+## Settings to keep in mind:
 
 ```
 * Selecting "Android" platform for creating the app.
@@ -27,7 +27,7 @@ The app will be created using Unity and the Vuforia SDK.
 ```
 
 
-**Target Image**
+## Target Image
 
 The Target image is the image that the Vuforia Engine can identify and track. The Engine identifies and traces the image by assessing extracted natural elements from the camera image alongside a recognized target resource database which is rich in features. Target images can use any planar image that offers adequate element to be identified by Vuforia Engine. Designing Image Targets comprises of two phases. The first step is to create or choose your target images and make sure they maintain the directions in the following guides for sizing, defining, and enhancing the images. To do so we have to follow these steps:
 
@@ -40,7 +40,7 @@ The Target image is the image that the Vuforia Engine can identify and track. Th
 ```
 
 
-**Adding Virtual Buttons** 
+## Adding Virtual Buttons
 
 
 1. While on the TargetImage tab, in the Inspector section scroll down to find the "Add Virtual button" option.
