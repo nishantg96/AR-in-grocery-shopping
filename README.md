@@ -50,4 +50,9 @@ The Target image is the image that the Vuforia Engine can identify and track. Th
 5. Repeat the above steps to create more virtual buttons.
 6. Finally, add a [C# script](https://gitlab.cs.uni-saarland.de/s8nigajj/ar-in-grocery-shopping/-/blob/master/vbInterface.cs) and assign the buttons to perform a set of actions.
 
+## APK of the final version of the project
+
+
+> [Download the apk file by clicking here](https://oc.cs.uni-saarland.de/owncloud/index.php/s/9BpbKkDZyXqHaPr)
+
 
